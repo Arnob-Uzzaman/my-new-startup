@@ -1,0 +1,20 @@
+li{
+    background-color:blueviolet;
+    height: 100px;
+    width: 50%;
+    background-color: red;
+
+}
+.ab{
+    padding: 20px;
+}
+.abc{
+    padding: 20px;
+    margin-top: 20px;
+    color: orange;
+    background-color: darkblue;
+    border-radius: 20%;
+    transition: 1s;
+    margin-top:50px ;
+    margin-left: 50px;
+}
